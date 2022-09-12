@@ -25,6 +25,16 @@
     font-weight: 40px;
     letter-spacing: -1px;
     line-height: 1.25;
+    color: white;
+  }
+  p{
+    color: white;
+  }
+  body{
+    background-image: url('https://wallpapercave.com/wp/wp3284832.gif');
+    background-size: cover;
+
+    height:100vh;
   }
 
 
